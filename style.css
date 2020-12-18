@@ -36,7 +36,7 @@ ul li a {
   font-size: 20px;
   padding: 0 20px
 }
-ul li a:hover {
+ul li a:center {
   color: white;
 }
 nav {
@@ -52,7 +52,7 @@ a:link {
 }
 
 a:visited {
-  color: Darkgrey;
+  color: White;
 }
 main {
     background-color: darkgrey;
